@@ -6,7 +6,7 @@ module.exports = (_, argv) => ({
 
   devtool: 'inline-source-map',
   output: {
-    publicPath: argv.mode === 'development' ? "http://localhost:3001/" : "https://einerstudentapp1.netlify.app",
+    publicPath: '/'
   },
 
   resolve: {
