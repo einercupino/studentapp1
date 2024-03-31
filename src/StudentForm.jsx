@@ -23,7 +23,7 @@ export default function StudentForm({ onFormSubmit }) {
       borderRadius: '5px',
       maxWidth: '500px',
       margin: 'auto',
-      backgroundColor: '#B2EBF2',
+      backgroundColor: '#81C784',
       fontFamily: 'Arial, sans-serif'
     }
   };
